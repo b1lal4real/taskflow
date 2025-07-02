@@ -20,6 +20,8 @@ A clean, responsive task management application built with HTML, CSS, and JavaSc
 
 ## Installation
 
+---
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/b1lal4real/taskflow.git
